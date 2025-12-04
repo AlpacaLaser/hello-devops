@@ -1,0 +1,17 @@
+{
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "description": "Egyszerű DevOps bemutató alkalmazás Node.js-ben",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",         
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saját Neved",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
