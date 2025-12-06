@@ -3,7 +3,7 @@ const app = express();
 const port = 8080;
 
 app.get('/', (req, res) => {
-  res.send('Hello DevOps from VS Code!');
+  res.send('Üdv a DevOps világában!');
 });
 
 app.listen(port, () => {
